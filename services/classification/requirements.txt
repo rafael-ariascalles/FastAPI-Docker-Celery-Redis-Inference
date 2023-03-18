@@ -1,0 +1,5 @@
+fastapi==0.94.1
+uvicorn[standard]==0.21.1
+celery[redis]
+requests
+flower==0.9.7
